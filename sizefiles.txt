@@ -1,0 +1,8 @@
+newyork.osm   : 2.62 GB
+sample_ny.osm : 69.0 MB
+datawrangle.db: 37.9 MB
+nodes.csv     : 24.5 MB
+nodes_tags.csv: 172 KB
+ways.csv      : 2.80 MB
+ways_nodes.csv: 8.30 MB
+ways_tags.csv : 5.89 MB
